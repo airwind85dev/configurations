@@ -1,5 +1,5 @@
 my:
   greeting: hello world!!
     list:
-      Values: One, Two, Three
+      values: One, Two, Three
     
